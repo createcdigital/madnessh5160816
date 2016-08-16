@@ -1,0 +1,6 @@
+#ignore files
+weChat/weChatId.php
+wxpay/cert/*
+db/madness.sql
+db/connect.php
+task.text
